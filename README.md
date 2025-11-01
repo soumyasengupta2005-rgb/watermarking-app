@@ -45,11 +45,13 @@ watermarking-app/
 ├── main.py            # Main application file
 ├── README.md          # Documentation
 └── assets/ (optional) # For sample images or fonts
+
 Future Improvements
 Custom font selection
 Support for image watermark overlays
 Option to batch-process multiple images
 Drag-and-drop image upload
+
 Author
 Soumya Sengupta
 Physics Student & Python Developer
